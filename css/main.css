@@ -1927,7 +1927,7 @@ input::-moz-focus-inner {
   background-color: #02182c;
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url(../images/hero-pic.jpg);
+  background-image: url(../images/dimas.jpg);
   background-size: cover;
   position: absolute;
   top: 20%;
@@ -2037,7 +2037,7 @@ input::-moz-focus-inner {
   }
 
   .intro-text h1 {
-    font-size: 7rem;
+    font-size: 5rem;
   }
 
 }
@@ -2283,7 +2283,7 @@ input::-moz-focus-inner {
   padding-left: 5.6rem;
   padding-bottom: .8rem;
   margin-top: 2.8rem;
-  min-height: 35.6rem;
+  min-height: 15.6rem;
 }
 
 .timeline .timeline__block:last-child {
@@ -2561,7 +2561,7 @@ input::-moz-focus-inner {
 .services-list .item-service {
   margin-bottom: 2.4rem;
   padding: 0 30px;
-  min-height: 44.8rem;
+  min-height: 22.8rem;
 }
 
 .services-list .item-service__content {
